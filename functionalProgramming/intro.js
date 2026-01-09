@@ -1,3 +1,5 @@
+//Javascript supports functional programming and functional programming is mostly used in React.
+
 function add(a,b){
     let sum = a + b;
     return sum;
